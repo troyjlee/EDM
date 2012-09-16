@@ -1,0 +1,5 @@
+The standard NxN Euclidean distance matrix M has entries
+M(i,j)=(i-j)^2.  This program gives a non-negative factorization 
+M=X*Y' of M where X,Y have O(log N) columns.
+
+The user can modify the variable N to change the size of the matrix.
